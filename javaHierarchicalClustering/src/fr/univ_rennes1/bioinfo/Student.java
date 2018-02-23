@@ -13,7 +13,7 @@ public class Student {
 	private double grade;
 	
 	/**
-	 * creates a student with his/her identifier and grade.
+	 * creates a student with his/her identifier and grade. Test
 	 * 
 	 * @param identifier
 	 * @param grade
